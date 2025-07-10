@@ -1,0 +1,6 @@
+AssetTag,Model,AssignedTo,Status,LastSeenDate,WarrantyEndDate,Department,Location
+LT001,Dell Latitude 5500,Trevor,Active,2024-06-01,2025-08-01,Finance,Johannesburg
+LT002,Dell Latitude 5510,Mandla,Inactive,2024-03-15,2024-10-01,HR,Cape Town
+LT003,HP EliteBook 840,Nandi,Retired,2023-12-22,2023-01-01,IT,Durban
+LT004,Lenovo ThinkPad X1,Zanele,Active,2024-07-01,2025-12-01,Legal,Pretoria
+LT005,MacBook Pro 13,Thabo,Active,2024-06-25,2026-02-01,Marketing,Sandton
