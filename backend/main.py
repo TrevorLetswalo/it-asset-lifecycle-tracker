@@ -101,3 +101,4 @@ def delete_asset(asset_tag: str):
     conn.commit()
     conn.close()
     return {"detail": f"Asset {asset_tag} deleted"}
+# This is a test comment to check git changes
